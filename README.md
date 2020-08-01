@@ -17,7 +17,7 @@ How to run:
 
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
-- cd plot_live_data
+- cd plot_live_graph
 - run: ./run_generate_data.sh
 
 Plot live chart:
