@@ -14,6 +14,7 @@ Requirements:
 - matplotlib
 
 How to run:
+
 Generate data:
 - Open linux terminal: Ctr + Alt + T 
 - cd plot_live_data
