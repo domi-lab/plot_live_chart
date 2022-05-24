@@ -1,5 +1,5 @@
 
-Author: domi-lab
+Author: minh do
 
 Functions:
 - Generate random data in C++.
